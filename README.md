@@ -1,3 +1,3 @@
 # manish-projects
 this is my first repository
-author Manish pratap
+author Manish pratap(manish-projects)
